@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots components/Button Basic 1`] = `
+<button
+  className="sc-AxjAm iCrEBj"
+>
+  Hello Button
+</button>
+`;
+
+exports[`Storyshots components/Button Emoji 1`] = `
+<button
+  className="sc-AxjAm iCrEBj"
+>
+  <span
+    aria-label="so cool"
+    role="img"
+  >
+    👍 🎵🤞🏿🐽😬
+  </span>
+</button>
+`;
+
+exports[`Storyshots components/Button Small 1`] = `
+<button
+  className="sc-AxjAm egFBdn"
+>
+  Hello Button
+</button>
+`;
+
+exports[`Storyshots components/Heading H 1 1`] = `
+<h1
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h1>
+`;
+
+exports[`Storyshots components/Heading H 2 1`] = `
+<h2
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h2>
+`;
+
+exports[`Storyshots components/Heading H 3 1`] = `
+<h3
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h3>
+`;
+
+exports[`Storyshots components/Heading H 4 1`] = `
+<h4
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h4>
+`;
+
+exports[`Storyshots components/Heading H 5 1`] = `
+<h5
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h5>
+`;
+
+exports[`Storyshots components/Heading H 6 1`] = `
+<h6
+  className="sc-AxirZ bXhSlO"
+>
+  Heading
+</h6>
+`;

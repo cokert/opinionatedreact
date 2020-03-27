@@ -1,0 +1,1 @@
+Playing with examples from this great book ["The Opinionated Guide to React"](https://leanpub.com/opinionated-guide-to-react).
